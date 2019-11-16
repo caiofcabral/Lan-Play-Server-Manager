@@ -12,3 +12,4 @@ euplay.secretalgorithm.com,EU-(Lithuania)
 au-east.switch.lan-play.com,Australia East
 177.54.110.25, PATRICKLM(BR)
 187.95.40.212, DIEGO(BR)
+lanplay.reboot.ms,NL
